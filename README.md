@@ -10,6 +10,14 @@
 
 ---
 
+# 🎥 Project Demonstration
+
+A complete video demonstration of this project is available below.
+
+▶️ **[Watch Project Demonstration Video](YOUR_VIDEO_LINK_HERE)**
+
+---
+
 ## 📌 Table of Contents
 
 * [📖 Project Overview](#-project-overview)
@@ -714,32 +722,6 @@ Run the SQL script in the following order:
         ↓
 11. Advanced Analysis
 ```
-
----
-
-# 🎥 Project Demonstration
-
-A complete video demonstration of this project is available below.
-
-▶️ **[Watch Project Demonstration Video](YOUR_VIDEO_LINK_HERE)**
-
-### 🎬 Video Includes
-
-* 🗄️ Database creation
-* 📋 Table creation
-* 📥 Data insertion
-* ✏️ CRUD operations
-* 🔍 SQL queries
-* 🔗 JOIN operations
-* 🧩 Subqueries
-* 📊 Aggregate functions
-* 📅 Date & string functions
-* 📈 Window functions
-* 🟢 Active/Inactive member analysis
-* 🏷️ Book categorization
-
-> 💡 Replace `YOUR_VIDEO_LINK_HERE` with your actual Google Drive, YouTube, or other video link before submitting the project.
-
 ---
 
 # 📂 Project Structure
@@ -782,8 +764,3 @@ The project provides hands-on experience with PostgreSQL and demonstrates how SQ
 
 If this project helped you understand PostgreSQL and SQL concepts, consider giving the repository a ⭐ on GitHub.
 
----
-
-### 📜 License
-
-This project is created for **educational and learning purposes**.
